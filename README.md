@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JDRX
-- 🌱 I’m currently learning ACTIVITI
+- 🙂 JavaInterview 里面放置了一下面试题
+- 👼 HappySnail 里面放了一下笔者的学习笔记
 
